@@ -1,11 +1,3 @@
-![](https://file.garden/adu6bQ57_HghQyhW/lizzie%20div%20top.png)
+revamping soon... :-3
 
-<p float="left">
-  <img src="https://file.garden/adu6bQ57_HghQyhW/lizzie%202.gif" width="49%" />
-  <img src="https://file.garden/adu6bQ57_HghQyhW/image%20(4).png" width="49%" />
-</p>
-
-
-$$\color{#c37293}{\text{art creds: @anqellyicc on pinterest ♡}}$$
-
-![](https://file.garden/adu6bQ57_HghQyhW/lizzie%20div%20bottom.png)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31x6s6g74f6tds7mdhb3rs47htxe&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=d8ff85&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
