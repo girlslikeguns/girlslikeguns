@@ -1,5 +1,5 @@
 
-${\textsf{\color{#87a3b1} six}}$ㅤㅤ ${\textsf{\color{#becfc7}feet}}$ ㅤㅤ ${\textsf{\color{#493d6b} under}}$ㅤㅤㅤ ${\textsf{\color{#6e7498} groundㅤㅤ♰}}$
+${\textsf{\color{#856c93} six}}$ㅤㅤ ${\textsf{\color{#cdc9d8}feet}}$ ㅤㅤ ${\textsf{\color{#493d6b} under}}$ㅤㅤㅤ ${\textsf{\color{#5d486f} groundㅤㅤ♰}}$
 
 
-ㅤㅤㅤㅤㅤㅤ![](https://cdn.discordapp.com/emojis/710608992010764318.webp?size=40)ㅤㅤㅤㅤㅤㅤ ${\textsf{\color{#87a3b1} beyond}}$ㅤㅤ ${\textsf{\color{#becfc7}the}}$ ㅤㅤ ${\textsf{\color{#493d6b} twisted}}$ㅤㅤㅤ ${\textsf{\color{#6e7498} corpseㅤㅤ♰}}$
+ㅤㅤㅤㅤㅤㅤ<img src="https://file.garden/adu6bQ57_HghQyhW/ash.png" width="60">ㅤㅤㅤㅤㅤㅤ ${\textsf{\color{#856c93} beyond}}$ㅤㅤ ${\textsf{\color{#cdc9d8}the}}$ ㅤㅤ ${\textsf{\color{#493d6b} twisted}}$ㅤㅤㅤ ${\textsf{\color{#5d486f} corpseㅤㅤ♰}}$
