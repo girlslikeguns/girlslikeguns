@@ -1,4 +1,4 @@
-ㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=your-github-username&color=493d6b&style=plastic&label=ㅤㅤrebornㅤㅤㅤ )
+ㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=girlslikeguns&color=493d6b&style=plastic&label=ㅤㅤrebornㅤㅤㅤ )
 
 ${\textsf{\color{#856c93} six}}$ㅤㅤ ${\textsf{\color{#cdc9d8}feet}}$ ㅤㅤ ${\textsf{\color{#493d6b} under}}$ㅤㅤㅤ ${\textsf{\color{#5d486f} groundㅤㅤ♰}}$
 
@@ -11,7 +11,7 @@ ${\textsf{\color{#856c93} six}}$ㅤㅤ ${\textsf{\color{#cdc9d8}feet}}$ ㅤㅤ $
 </a> <a href="https://pronouns.cc/@ghostqueen">
   <img src="https://file.garden/adu6bQ57_HghQyhW/prnscc.png" alt="prnscc" width="25%"/>
 </a> <a href="https://ghostqueen.straw.page">
-  <img src="https://file.garden/adu6bQ57_HghQyhW/straw.png" alt="strawpage" width="25%"/>
+  <img src="https://file.garden/adu6bQ57_HghQyhW/straw.png" alt="strawpage" width="33%"/>
 </a>
 
 ---
