@@ -20,6 +20,11 @@
   ─ i like talking yeh talk to me talk to me ♡♡♡♡♡ i talk about various things yeh Anything and everything :-))))
 
 ─ hello to all my friends!hi! i love u.friends ♡-♡
+<details>
+<summary>mmmmmmy friends♡</summary>
+  
+  ![](https://file.garden/adu6bQ57_HghQyhW/hotdogpickle)![](https://file.garden/adu6bQ57_HghQyhW/bulls) ![](https://file.garden/adu6bQ57_HghQyhW/magnemeiandme)![](https://file.garden/adu6bQ57_HghQyhW/myfriends)
+  </details>
 
 ![](https://64.media.tumblr.com/9dc4af899bc186d2d3e16254b2a88f86/657171b7ea876107-ac/s2048x3072/6d352ee5642135144c8e5bded9599d21663a2369.pnj)
 
